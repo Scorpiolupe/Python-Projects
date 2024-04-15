@@ -85,5 +85,5 @@ elif difficulty == 6:
             print("Yanlış")
 
 else:
-    print("Böyle bir zorluk seviyesi mi var amk")
+    print("Yanlış girdi girdiniz! Tekrar deneyin.")
         
